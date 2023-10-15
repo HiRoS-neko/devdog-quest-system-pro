@@ -1,0 +1,20 @@
+{
+  "name": "io.devdog.quest-system-pro.editor",
+  "rootNamespace": "",
+  "references": [
+    "GUID:8917212f15cc4599a21656eb7158695b",
+    "GUID:dd3ecb56935345eca77b0905b80f385c",
+    "GUID:f6134785714da4c18bc42da43689dd91"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

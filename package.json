@@ -1,0 +1,22 @@
+{
+  "name": "io.devdog.quest-system-pro",
+  "version": "1.0.0",
+  "displayName": "Devdog Quest System Pro",
+  "description": "",
+  "documentationUrl": "https://github.com/devdogio/general",
+  "type": "library",
+  "samples": [
+    {
+      "displayName": "Demo",
+      "path": "Demos~"
+    },
+    {
+      "displayName": "Design Files",
+      "path": "Designs~"
+    },
+    {
+      "displayName": "System Resources",
+      "path": "SystemProResources~"
+    }
+  ]
+}

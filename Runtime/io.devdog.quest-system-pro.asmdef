@@ -1,0 +1,16 @@
+{
+    "name": "io.devdog.quest-system-pro",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8917212f15cc4599a21656eb7158695b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
